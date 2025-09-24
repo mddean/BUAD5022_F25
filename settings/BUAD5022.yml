@@ -494,12 +494,6 @@ dependencies:
   - zstandard=0.23.0=py313h4fc1ca9_1
   - zstd=1.5.6=h8880b57_0
   - pip:
-      - ampl-module-base==20250901
-      - ampl-module-cbc==20250814
-      - ampl-module-gurobi==20250814
-      - ampl-module-highs==20250814
-      - amplpy==0.15.2
-      - ampltools==0.7.5
       - gilp==2.1.0
       - typing==3.7.4.3
 prefix: C:\Users\mddean\AppData\Local\anaconda3\envs\BUAD5022
